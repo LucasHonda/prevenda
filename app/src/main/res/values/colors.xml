@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Initial Colors
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    //New Colors
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="rich_eletric_blue">#0E81D1</color>
+    <color name="prusion_blue">#133C55</color>
+    <color name="carolina_blue">#59A5D8</color>
+    <color name="lapis_lazuli">#336699</color>
+    <color name="charleston_green">#272D2D</color>
+    <color name="timberwolf">#DBD3D8</color>
+</resources>

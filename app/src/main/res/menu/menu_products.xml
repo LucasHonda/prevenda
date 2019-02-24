@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    <item
+        android:id="@+id/restProx"
+        android:icon="@drawable/local"
+        android:title="Mais próximos" />
+    -->
+    <item
+        android:id="@+id/filter_name"
+        android:icon="@drawable/filter_name_white"
+        android:title="Nome" />
+    <item
+        android:id="@+id/filter_price"
+        android:icon="@drawable/filter_money_white"
+        android:title="Preço" />
+    <item
+        android:id="@+id/filter_stock"
+        android:icon="@drawable/filter_stock_white"
+        android:title="Estoque" />
+
+    <item
+        android:id="@+id/filter_close"
+        android:icon="@drawable/close_filter_white"
+        android:title="" />
+
+</menu>
